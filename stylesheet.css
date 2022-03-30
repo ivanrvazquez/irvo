@@ -1,0 +1,32 @@
+h1 {
+font-family: 'Bebas Neue', cursive;
+color: #626B6B;
+}
+
+img {
+width: 500px;
+}
+
+.banner {
+width:2000px;}
+body {
+background-color: white
+}
+.button {
+float:right;
+margin-right:20px;
+width: 100px;}
+
+p {
+color:white;
+}
+
+a {
+color: pink;
+font-size: 20px;
+}
+
+a:hover {
+color:blue;
+font-size: 30px;
+}
